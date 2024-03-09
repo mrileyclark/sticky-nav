@@ -4,9 +4,8 @@
 
 A project to set up a sign on page for TechSkills Inc
 
-Link to project: [https://github.com/mrileyclark/sticky-nav/]
-
-
+Link to project: [https://mrileyclark.github.io/sticky-nav/]
+  
 <img src="https://github.com/mrileyclark/sticky-nav/blob/main/sticky-nav.png" width="50%" height="30%">
 
 ****
