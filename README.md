@@ -1,11 +1,11 @@
-# Sticky Nav
+# Sticky Nav Project
+
+This project demonstrates the implementation of a sticky navigation bar using HTML and CSS, enhanced with JavaScript for dynamic behavior. When the user scrolls down the page to a certain point, the navigation bar changes its appearance to remain fixed at the top of the viewport.
 
 ****
 
-A project to set up a sign on page for TechSkills Inc
 
 Link to project: [https://mrileyclark.github.io/sticky-nav/]
-
 
   
 <img src="https://github.com/mrileyclark/sticky-nav/blob/main/sticky-nav.png" width="50%" height="30%">
@@ -14,15 +14,10 @@ Link to project: [https://mrileyclark.github.io/sticky-nav/]
 
 ## How It's Made: 
 
-Tech used: HTML, CSS
+Stick Nav: HTML, CSS, JS
 
-Tech Skills Inc Clone Site- I developed a fully responsive login page for TechSkills Inc., showcasing my expertise in front-end development
-and design. The login page provides users with a sleek and intuitive interface to access their accounts securely. The login form features clear labels 
-and input fields for email/username and password, enhancing usability and accessibility for all users.The login page includes interactive buttons for signing in 
-and creating an account, with hover effects and transitions to provide feedback to users.
+Sticky Nav- The navigation bar is created using HTML and styled with CSS to define its appearance. JavaScript is utilized to add 
+functionality to the navigation bar by detecting scroll events and toggling a class to change its style when the user scrolls past a certain point.
+
 ****
-
- ## Lessons Learned: 
-
-I plan on revisting the app to change the sytling of the countdown UI to look like records.
 
