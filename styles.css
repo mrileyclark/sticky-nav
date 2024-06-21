@@ -65,8 +65,7 @@ body {
 
 .nav a.current,
 .nav a:hover {
-/*   color: #10da71; */
-  color: pink;
+  color: #10da71;
   font-weight: bold;
 }
 
